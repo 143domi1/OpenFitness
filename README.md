@@ -1,7 +1,7 @@
 # OpenFitness
 
 **OpenFitness** is a free and open source fitness application to track your health!  
-It currently only supports **water tracking** and **weight tracking** , in the future more features will come.  
+It currently only supports **water tracking**,**weight tracking** and **steps tracking** , in the future more features will come.  
 Try it if you care about your **health!**
 
 ---
