@@ -11,7 +11,7 @@ Try it if you care about your **health!**
 First of all, you need to download the repo.
 
 ```bash
-wget https://github.com/143domi1/OpenFitness
+wget https://github.com/143domi1/OpenFitness/archive/refs/heads/main.zip
 ```
 
 I have only compiled this app with the g++ compiler, but it probably works with other compilers too.  
@@ -28,7 +28,7 @@ g++ main.cpp -o openfitness
 
 ---
 
-### Required **Libarys** for this application:
+### Required **Libaries** for this application:
 
 ```
 linux-vdso.so.1 (0x00007f9f2e01f000)
