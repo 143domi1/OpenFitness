@@ -4,6 +4,8 @@
 It currently only supports **water tracking**,**weight tracking** and **steps tracking** , in the future more features will come.  
 Try it if you care about your **health!**
 
+<img width="1920" height="837" alt="image" src="https://github.com/user-attachments/assets/8e200d89-3524-4d71-b720-77251fc78ca7" />
+
 ---
 
 ## How to compile?
